@@ -1,1 +1,1 @@
-# Automating-System-Monitoring-in-Linux-Mint-Using-Bash-Functions
+# Linux Mint System Monitoring
