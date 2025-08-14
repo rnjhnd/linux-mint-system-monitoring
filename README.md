@@ -76,8 +76,8 @@ You can modify the `monitor.sh` script to:
 ```
 linux-mint-system-monitoring/
 ├── system-automation-linuxmint/
-│   └── monitor.sh
-└── README.md
+│   └── monitor.sh                    # Main monitoring and backup script
+└── README.md                         # Project documentation and setup guide
 
 ```
 
