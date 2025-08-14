@@ -15,6 +15,15 @@ The toolkit is designed to grow into a comprehensive monitoring solution, with p
 - **Maintenance Scripts**: Automated system cleanup and optimization
 - **Easy-to-Use Interface**: Simple command-line interface for all operations
 
+## 📁 Project Structure
+
+```
+linux-mint-system-monitoring/
+├── system-automation-linuxmint/
+│   └── monitor.sh                    # Main monitoring and backup script
+└── README.md                         # Project documentation and setup guide
+```
+
 ## 🛠️ Installation and Setup
 
 1. Clone or download this repository to your Linux Mint system:
@@ -70,16 +79,6 @@ You can modify the `monitor.sh` script to:
 - Implement scheduled backups using cron
 - Add compression options
 - Include/exclude specific file types
-
-## 📁 Project Structure
-
-```
-linux-mint-system-monitoring/
-├── system-automation-linuxmint/
-│   └── monitor.sh                    # Main monitoring and backup script
-└── README.md                         # Project documentation and setup guide
-
-```
 
 ## 🚧 Roadmap
 
