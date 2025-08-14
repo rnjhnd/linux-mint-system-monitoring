@@ -27,15 +27,16 @@ linux-mint-system-monitoring/
 ## 🛠️ Installation and Setup
 
 1. Clone or download this repository to your Linux Mint system:
-```bash
-git clone <repository-url>
-cd linux-mint-system-monitoring
-```
+   ```bash
+   git clone <repository-url>
+   cd linux-mint-system-monitoring
+   ```
 
 2. Make the monitoring script executable:
-```bash
-chmod +x system-automation-linuxmint/monitor.sh
-```
+   ```bash
+   chmod +x system-automation-linuxmint/monitor.sh
+   ```
+   
 ### Prerequisites
 
 - Linux Mint (tested on versions 20.x and 21.x)
