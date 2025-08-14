@@ -75,9 +75,10 @@ You can modify the `monitor.sh` script to:
 
 ```
 linux-mint-system-monitoring/
-├── README.md
-└── system-automation-linuxmint/
-    └── monitor.sh
+├── system-automation-linuxmint/
+│   └── monitor.sh
+└── README.md
+
 ```
 
 ## 🚧 Roadmap
