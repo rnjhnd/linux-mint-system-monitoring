@@ -19,7 +19,7 @@ The toolkit is designed to grow into a comprehensive monitoring solution, with p
 
 ```
 linux-mint-system-monitoring/
-├── system-automation-linuxmint/
+├── system-monitor/
 │   └── monitor.sh                    # Main monitoring and backup script
 └── README.md                         # Project documentation and setup guide
 ```
@@ -34,7 +34,7 @@ linux-mint-system-monitoring/
 
 2. Make the monitoring script executable:
    ```bash
-   chmod +x system-automation-linuxmint/monitor.sh
+   chmod +x system-monitor/monitor.sh
    ```
    
 ### Prerequisites
@@ -51,7 +51,7 @@ linux-mint-system-monitoring/
 The main feature currently available is the `backup_folder` function:
 
 ```bash
-./system-automation-linuxmint/monitor.sh
+./system-monitor/monitor.sh
 ```
 
 **Function Parameters:**
